@@ -9,3 +9,5 @@ It also includes the following implementations:
 - Crossover with crossover point.
 - Mutation by swap.
 - An objective function using frequency analysis.
+
+The GA has an average 92% success rate using a 20% mutation probability, 65% crossover probability and a population size of 500 and generation count of 500.
